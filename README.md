@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/munivar/count.svg" />
 </p>
