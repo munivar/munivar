@@ -16,5 +16,11 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Passionate about coding and creating innovative solutions, I'm a dedicated Software Developer with a focus on Flutter & Dart. 💻 My journey in tech has taught me the importance of collaboration, effective communication, and problem-solving skills, enabling me to thrive in cross-functional teams. 🚀
+
+Specializing in Flutter Framework, Dart Packages, State Management, Providers. I bring a wealth of technical knowledge to the table. 💡 I'm driven by continuous learning, always eager to expand my skill set and explore new technologies. 📚
+
+Beyond coding, I'm a people person who enjoys building connections and learning from diverse perspectives. 🌐 I believe in the power of collaboration and I am always seeking opportunities to connect with others in the tech community. Whether it's discussing the latest tech trends or sharing insights from personal experiences, I'm here to connect and grow together. 🤝
+
+If you're interested in collaborating, discussing tech, or simply connecting, feel free to reach out! Let's embark on this journey of growth and innovation together. 🌟 #SoftwareEngineer #Flutter #Dart #Collaboration #LifelongLearner
 
