@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python (FastAPI)
 - 💬 Ask me about anthing in Flutter
 - 😄 Pronouns: dk
-- ⚡ Fun fact: Just Code...
 
 ## Visitor Count
 <p align="left"> 
