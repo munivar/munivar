@@ -1,22 +1,30 @@
-## Hi there 
+# Hi, I'm Divyakant 👋
 
--  I’m currently working on Flutter (Dart) & Python
--  I’m currently learning Python (FastAPI)
--  Ask me about anthing in Flutter
--  Pronouns: dk
+**Product Engineer** · I take business ideas from workflow analysis to design, build, deployment and App Store / Play Store launch.
 
-## Visitor Count
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/munivar/count.svg" />
-</p>
+Open for freelance projects: ERP, mobile and web apps, built and launched end to end.
 
-## About me
+## What I've built
 
-Passionate about coding and creating innovative solutions, I'm a dedicated Software Developer with a focus on Flutter & Dart.  My journey in tech has taught me the importance of collaboration, effective communication, and problem-solving skills, enabling me to thrive in cross-functional teams. 
+- **ERP and B2B wholesale platform** for a textile company: inventory, purchasing, sales, accounting and GST billing. About 3,000 people use it daily. 200+ APIs, apps on Android, iOS, Web and Windows.
+- **School and hostel management system** for Memnagar Gurukul: attendance, hostel allocation, GPS-verified gate passes and online fee collection. About 4,500 students and staff. Built and run by me alone.
+- **Epitomize**: a personal productivity app (notes and cashbook) on Android, iOS, Web and Windows, with Firebase.
 
-Specializing in Flutter Framework, Dart Packages, State Management, Providers. I bring a wealth of technical knowledge to the table.  I'm driven by continuous learning, always eager to expand my skill set and explore new technologies. 
+## What I do for clients
 
-Beyond coding, I'm a people person who enjoys building connections and learning from diverse perspectives.  I believe in the power of collaboration and I am always seeking opportunities to connect with others in the tech community. Whether it's discussing the latest tech trends or sharing insights from personal experiences, I'm here to connect and grow together. 
+- **Business analysis and planning**: map your workflow, then give you screens, modules, milestones and a fixed cost
+- **UI/UX design and development**: Flutter, React, React Native (Expo)
+- **Backend and databases**: Python, FastAPI, PostgreSQL, Redis, Celery
+- **Deployment and servers**: Docker, Nginx, SSL, backups, Google Play and App Store publishing
+- **AI-assisted delivery**: I use Claude and Google Antigravity for planning, research, design and deployment, and I review and test every result myself
 
-If you're interested in collaborating, discussing tech, or simply connecting, feel free to reach out! Let's embark on this journey of growth and innovation together.
+## Tech
 
+`Flutter` `Dart` `React` `TypeScript` `React Native` `Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `Nginx` `Firebase` `Linux`
+
+## Work with me
+
+- LinkedIn: [linkedin.com/in/munivar](https://www.linkedin.com/in/munivar/)
+- Email: divyakantdabhi1609@gmail.com
+
+Send me a short message about what you need, and I'll reply with how I'd build it.
