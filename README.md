@@ -6,7 +6,7 @@ Open for freelance projects: ERP, mobile and web apps, built and launched end to
 
 ## What I've built
 
-- **ERP and B2B wholesale platform** for a textile company: inventory, purchasing, sales, accounting and GST billing. About 3,000 people use it daily. 200+ APIs, apps on Android, iOS, Web and Windows.
+- **ERP and B2B wholesale platform** for a textile company: inventory, purchasing, sales, accounting and GST billing. About 12,000 people use it daily. 200+ APIs, apps on Android, iOS, Web and Windows.
 - **School and hostel management system** for Memnagar Gurukul: attendance, hostel allocation, GPS-verified gate passes and online fee collection. About 4,500 students and staff. Built and run by me alone.
 - **Epitomize**: a personal productivity app (notes and cashbook) on Android, iOS, Web and Windows, with Firebase.
 
